@@ -58,7 +58,7 @@ public class MainActivity extends Activity implements DrawerLayout.DrawerListene
                 R.layout.drawer_list_item, menuItems, images));
 
         mDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout,
-                android.R.drawable.ic_menu_more,
+                R.drawable.ic_drawer,
                 R.string.drawer_open,
                 R.string.drawer_closed);
     }
@@ -96,7 +96,7 @@ public class MainActivity extends Activity implements DrawerLayout.DrawerListene
 
     @Override // DrawerListener
     public void onDrawerOpened(View drawerView) {
-        getActionBar().setTitle("Sidrbar - Open");
+        getActionBar().setTitle("Sidebar - Open");
     }
 
 

@@ -1,17 +1,17 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1368726704000 483 d871c93ebe22df9fb5d965fb7aa192240d97b91d /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$layout.class
-1368726704000 391 6e920081ee55a820b0278ce84c89a78f4a21f7a4 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$menu.class
+1368746801000 483 f42ea8fbb1d9ef2d2d8c687c486db3cf4a71e315 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$layout.class
+1368746801000 391 a0543bc225af8c4b3f4cdda9a2e47f781ab37db0 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$menu.class
 1368726704000 464 1360cfd05fd8271428f7421c0fc2e1b8cd5080de /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$dimen.class
 1368718271000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/libs/android-support-v4.jar
 1368718290000 347 0609e54a5cb1417442f8cb3fd924adb5272988fa /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/BuildConfig.class
 1368726704000 343 273c4fa1c7833a5d4eaaa7a4771eebf5cbe00f89 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$attr.class
-1368726704000 410 9d2d659d484550b1f6c380aec6756741b5f027dd /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$drawable.class
-1368726704000 547 e84fea74ba8a035ac7d906b9382411467ed91014 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$string.class
-1368727700000 4315 67a288df2e9ffda16484d6c4f6dc5ecc3a92260e /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/MainActivity.class
+1368746801000 443 3a8f720b502295478f89860ee1bced6513e5960b /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$drawable.class
+1368746801000 547 b01e36919e0287330e5e4b499cb49e4971939ab9 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$string.class
+1368746801000 4315 150aa4f47fd7f3ba42dcf4a1cc7d4adb785524bc /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/MainActivity.class
 1368727700000 1918 6ffc5056b9eb78ccc589accc51a7258185c72dd3 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/MainActivity$CustomDrawerAdapter.class
-1368726704000 736 21e786bc43e2542306fc94cd1e319730d30c727b /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R.class
+1368746801000 736 4593ee5a492bdef760192ab1b04da7356ac03f5f /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R.class
 1368726704000 437 847e94c73b7dfc5f11b5474598e650aff0b26f24 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$array.class
-1368726704000 576 a7c3ce9d4b24d74b43f3dff70361662c2b9bc13c /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$id.class
-1368726704000 434 342e6bd2168037fb28941b9c79e90e3f875eb41d /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$style.class
+1368746801000 576 c29bd28254be9902f8610ce90dfb5b7cd092d0bc /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$id.class
+1368746801000 434 97e4b382fb834d57ed9733f77418a79a1f6e83d0 /Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/classes/debug/doc/example/sidebar/R$style.class
