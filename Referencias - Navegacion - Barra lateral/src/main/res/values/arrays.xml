@@ -1,0 +1,11 @@
+<resources>
+	<string-array name="menu_items">
+		<item>Add</item>
+		<item>Delete</item>
+		<item>Gallery</item>
+		<item>Details</item>
+		<item>Mark</item>
+		<item>Share</item>
+		<item>Follow</item>
+	</string-array>
+</resources>

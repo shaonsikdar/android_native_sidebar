@@ -1,0 +1,22 @@
+<LinearLayout
+		android:paddingLeft="10dp"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+	<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:src="@drawable/ic_launcher"
+			android:id="@+id/imageView" android:layout_gravity="center"/>
+	<TextView
+				android:id="@+id/planetTextView"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:text="Large Text"
+				android:textColor="#33B5E5"
+				android:padding="10dp" android:layout_gravity="center">
+
+		</TextView>
+</LinearLayout>

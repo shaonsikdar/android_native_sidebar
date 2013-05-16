@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="drawer_closed" >Closed
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >SideBar - Closed
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="drawer_open" >Open
+                </string>
+            </file>
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="DrawerLayout"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/layout/DrawerLayout"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/values/arrays.xml"
+                qualifiers="" >
+                <string-array name="menu_items" >
+                    <item>
+Add
+                    </item>
+                    <item>
+Delete
+                    </item>
+                    <item>
+Gallery
+                    </item>
+                    <item>
+Details
+                    </item>
+                    <item>
+Mark
+                    </item>
+                    <item>
+Share
+                    </item>
+                    <item>
+Follow
+                    </item>
+                </string-array>
+                <string-array name="planets_array" >
+                    <item>
+Mercurio
+                    </item>
+                    <item>
+Marte
+                    </item>
+                    <item>
+Tierra
+                    </item>
+                    <item>
+Venus
+                    </item>
+                    <item>
+Saturno
+                    </item>
+                    <item>
+Neptuno
+                    </item>
+                    <item>
+Pluton
+                    </item>
+                </string-array>
+            </file>
+            <file
+                name="drawer_layout"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/layout/drawer_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/main/res/layout/drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/lolete/git/Referencias - Navegacion - Barra lateral/Referencias - Navegacion - Barra lateral/src/debug/res" />
+    </dataSet>
+
+</merger>
